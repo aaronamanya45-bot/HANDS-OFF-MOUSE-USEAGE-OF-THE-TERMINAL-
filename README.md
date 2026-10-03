@@ -1,4 +1,4 @@
-# Terminal First: Using the Command Line
+# Terminal First: USING THE COMMAND LINE
 
 Welcome to my **Terminal First** learning project.
 
