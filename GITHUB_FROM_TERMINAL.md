@@ -48,13 +48,11 @@ https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 Do not use someone else's URL.
 
 ## 7. Connect local Git to GitHub
-
 ```cmd
 git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 ```
 
 ## 8. Push
-
 ```cmd
 git branch -M main
 git push -u origin main
