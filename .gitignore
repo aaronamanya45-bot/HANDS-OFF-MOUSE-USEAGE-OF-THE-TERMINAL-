@@ -1,0 +1,5 @@
+# Common files that should not be committed
+*.log
+*.tmp
+.env
+__pycache__/
