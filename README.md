@@ -45,7 +45,7 @@ Instead of opening folders and clicking buttons, we tell the computer what to do
 
 ---
 
-## 2. Important Windows commands
+## 2. IMPORTANT WINDOW COMMANDS
 
 ### Show the current folder
 
