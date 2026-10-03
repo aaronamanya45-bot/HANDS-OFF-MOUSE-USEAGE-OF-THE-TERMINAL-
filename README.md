@@ -23,7 +23,7 @@ You do not have to stop using the mouse. The goal is to become comfortable with 
 
 ---
 
-## 1. What is a terminal?
+## 1.WHAT IS A TERMINAL?
 
 A **terminal** is a text-based interface where we type commands to communicate with the operating system.
 
