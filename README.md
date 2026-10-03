@@ -4,7 +4,7 @@ Welcome to my **Terminal First** learning project.
 
 This project is about learning how to use a computer through the **terminal / command prompt** instead of depending only on the mouse and graphical interfaces.
 
-## Why learn the terminal?
+## WHY LEARN THE TERMINAL?
 
 The terminal allows you to control your computer by typing commands. It is useful for:
 
