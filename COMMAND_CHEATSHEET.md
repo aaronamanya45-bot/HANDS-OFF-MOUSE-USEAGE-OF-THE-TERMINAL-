@@ -23,7 +23,6 @@
 | `cls` | Clear CMD screen |
 
 ## Git
-
 ```text
 git init
 git status
@@ -35,7 +34,6 @@ git push -u origin main
 ```
 
 ## Networking
-
 ```text
 ipconfig
 ping google.com
@@ -43,7 +41,6 @@ tracert google.com
 ```
 
 ## Remember
-
 - `cd` = change directory
 - `dir` = list directory contents
 - `mkdir` = make directory
